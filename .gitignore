@@ -20,6 +20,10 @@
 # production
 /build
 
+/.vscode
+
+/.inngest
+
 # misc
 .DS_Store
 *.pem
